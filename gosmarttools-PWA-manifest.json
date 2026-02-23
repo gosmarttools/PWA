@@ -1,8 +1,8 @@
 {
-    "name": "AniWave",
-    "short_name": "AniLite",
-    "scope": "https://aniwavelite-bt.blogspot.com/",
-    "start_url": "https://aniwavelite-bt.blogspot.com/",
+    "name": "GoSmart",
+    "short_name": "GoSmart Tools",
+    "scope": "https://gosmarttoolsapp.blogspot.com/",
+    "start_url": "https://gosmarttoolsapp.blogspot.com/",
     "display": "standalone",
     "background_color": "#fff",
     "theme_color": "#ff0000",
